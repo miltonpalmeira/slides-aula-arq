@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="120" viewBox="0 0 320 120">
+<rect width="100%" height="100%" fill="#fff"/>
+<path d="M 110,38.0 C 138,38.0 158,48 168,60 C 158,72 138,82.0 110,82.0 C 124,60 110,38.0 110,38.0 Z" fill="none" stroke="#1a1a1a" stroke-width="2.2"/>
+<text x="48" y="50" text-anchor="end" font-family="Calibri, Arial, sans-serif" font-size="14" font-weight="bold" fill="#1a1a1a" dominant-baseline="middle">A</text>
+<line x1="54" y1="50" x2="70" y2="50" stroke="#1a1a1a" stroke-width="2.2" fill="none"/>
+<line x1="70" y1="50" x2="116" y2="50" stroke="#1a1a1a" stroke-width="2.2" fill="none"/>
+<text x="48" y="70" text-anchor="end" font-family="Calibri, Arial, sans-serif" font-size="14" font-weight="bold" fill="#1a1a1a" dominant-baseline="middle">B</text>
+<line x1="54" y1="70" x2="70" y2="70" stroke="#1a1a1a" stroke-width="2.2" fill="none"/>
+<line x1="70" y1="70" x2="116" y2="70" stroke="#1a1a1a" stroke-width="2.2" fill="none"/>
+<line x1="168" y1="60" x2="186" y2="60" stroke="#1a1a1a" stroke-width="2.2" fill="none"/>
+<text x="194" y="60" text-anchor="start" font-family="Calibri, Arial, sans-serif" font-size="14" font-weight="bold" fill="#1a1a1a" dominant-baseline="middle">S</text>
+</svg>

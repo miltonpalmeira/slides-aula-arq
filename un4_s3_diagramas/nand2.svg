@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="120" viewBox="0 0 340 120">
+<rect width="100%" height="100%" fill="#fff"/>
+<path d="M 110,38.0 H 144 A 22.0,22.0 0 0 1 144,82.0 H 110 Z" fill="none" stroke="#1a1a1a" stroke-width="2.2"/>
+<circle cx="171.0" cy="60" r="5" fill="#fff" stroke="#1a1a1a" stroke-width="2.2"/>
+<text x="48" y="50" text-anchor="end" font-family="Calibri, Arial, sans-serif" font-size="14" font-weight="bold" fill="#1a1a1a" dominant-baseline="middle">A</text>
+<line x1="54" y1="50" x2="70" y2="50" stroke="#1a1a1a" stroke-width="2.2" fill="none"/>
+<line x1="70" y1="50" x2="110" y2="50" stroke="#1a1a1a" stroke-width="2.2" fill="none"/>
+<text x="48" y="70" text-anchor="end" font-family="Calibri, Arial, sans-serif" font-size="14" font-weight="bold" fill="#1a1a1a" dominant-baseline="middle">B</text>
+<line x1="54" y1="70" x2="70" y2="70" stroke="#1a1a1a" stroke-width="2.2" fill="none"/>
+<line x1="70" y1="70" x2="110" y2="70" stroke="#1a1a1a" stroke-width="2.2" fill="none"/>
+<line x1="176.0" y1="60" x2="194.0" y2="60" stroke="#1a1a1a" stroke-width="2.2" fill="none"/>
+<text x="202.0" y="60" text-anchor="start" font-family="Calibri, Arial, sans-serif" font-size="14" font-weight="bold" fill="#1a1a1a" dominant-baseline="middle">S</text>
+</svg>

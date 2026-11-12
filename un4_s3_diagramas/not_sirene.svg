@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="110" viewBox="0 0 360 110">
+<rect width="100%" height="100%" fill="#fff"/>
+<path d="M 140,39 L 170,55 L 140,71 Z" fill="none" stroke="#1a1a1a" stroke-width="2.2"/>
+<circle cx="175" cy="55" r="5" fill="#fff" stroke="#1a1a1a" stroke-width="2.2"/>
+<text x="28" y="55" text-anchor="end" font-family="Calibri, Arial, sans-serif" font-size="14" font-weight="bold" fill="#1a1a1a" dominant-baseline="middle">botão A</text>
+<line x1="34" y1="55" x2="50" y2="55" stroke="#1a1a1a" stroke-width="2.2" fill="none"/>
+<line x1="50" y1="55" x2="140" y2="55" stroke="#1a1a1a" stroke-width="2.2" fill="none"/>
+<line x1="180" y1="55" x2="196" y2="55" stroke="#1a1a1a" stroke-width="2.2" fill="none"/>
+<text x="204" y="55" text-anchor="start" font-family="Calibri, Arial, sans-serif" font-size="14" font-weight="bold" fill="#1a1a1a" dominant-baseline="middle">sirene S</text>
+</svg>

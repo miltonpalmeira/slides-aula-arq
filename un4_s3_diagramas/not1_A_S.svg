@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="100" viewBox="0 0 300 100">
+<rect width="100%" height="100%" fill="#fff"/>
+<path d="M 120,34 L 150,50 L 120,66 Z" fill="none" stroke="#1a1a1a" stroke-width="2.2"/>
+<circle cx="155" cy="50" r="5" fill="#fff" stroke="#1a1a1a" stroke-width="2.2"/>
+<text x="48" y="50" text-anchor="end" font-family="Calibri, Arial, sans-serif" font-size="14" font-weight="bold" fill="#1a1a1a" dominant-baseline="middle">A</text>
+<line x1="54" y1="50" x2="70" y2="50" stroke="#1a1a1a" stroke-width="2.2" fill="none"/>
+<line x1="70" y1="50" x2="120" y2="50" stroke="#1a1a1a" stroke-width="2.2" fill="none"/>
+<line x1="160" y1="50" x2="178" y2="50" stroke="#1a1a1a" stroke-width="2.2" fill="none"/>
+<text x="186" y="50" text-anchor="start" font-family="Calibri, Arial, sans-serif" font-size="14" font-weight="bold" fill="#1a1a1a" dominant-baseline="middle">S</text>
+</svg>
